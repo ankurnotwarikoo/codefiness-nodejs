@@ -1,0 +1,26 @@
+const express = require("express");
+const newscontroller = express.Router();
+const { fetchHeadlinesByCategories } = require("../service/newsservice");
+const authcontroller = require("./authenticationcontroller");
+const {
+  AXIOS_ERROR,
+  FAILED_TO_FETCH_NEWS_BY_CATEGORY,
+  PREFERENCES,
+} = require("../utilities/constants");
+require("dotenv").config();
+
+newscontroller.use(express.json());
+const users = authcontroller.users;
+
+newscontroller.get("/:userid/news", async (req, res) => {
+  try {
+    let user = users.find((user) => user.id === parseInt(req.params.userid));
+    let newsArticle = await fetchHeadlinesByCategories(user[PREFERENCES]);
+    return res.status(200).json({ news: newsArticle });
+  } catch (err) {
+    console.error(AXIOS_ERROR, error);
+    throw new Error(FAILED_TO_FETCH_NEWS_BY_CATEGORY);
+  }
+});
+
+module.exports = newscontroller;

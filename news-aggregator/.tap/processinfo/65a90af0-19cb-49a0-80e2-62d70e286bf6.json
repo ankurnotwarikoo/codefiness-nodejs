@@ -1,0 +1,243 @@
+{
+  "date": "2024-05-13T09:59:53.267Z",
+  "argv": [
+    "C:\\Program Files\\nodejs\\node.exe",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\test\\server.test.js"
+  ],
+  "execArgv": [
+    "--import=file:///C:/Ankur%20M/NodeJs_Projects/news-aggregator/node_modules/@isaacs/ts-node-temp-fork-for-pr-2009/import.mjs",
+    "--import=file:///C:/Ankur%20M/NodeJs_Projects/news-aggregator/node_modules/@tapjs/mock/dist/esm/import.mjs",
+    "--enable-source-maps",
+    "--import=file:///C:/Ankur%20M/NodeJs_Projects/news-aggregator/node_modules/@tapjs/processinfo/dist/esm/import.mjs"
+  ],
+  "NODE_OPTIONS": "\"--import=file:///C:/Ankur%20M/NodeJs_Projects/news-aggregator/node_modules/@tapjs/processinfo/dist/esm/import.mjs\"",
+  "cwd": "C:\\Ankur M\\NodeJs_Projects\\news-aggregator",
+  "pid": 8896,
+  "ppid": 32832,
+  "parent": null,
+  "uuid": "65a90af0-19cb-49a0-80e2-62d70e286bf6",
+  "files": [
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\test\\server.test.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@isaacs\\ts-node-temp-fork-for-pr-2009\\import.mjs",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@isaacs\\ts-node-temp-fork-for-pr-2009\\import-loader.mjs",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\import.mjs",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-service.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\dist\\esm\\index.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\index.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\is-relative-require.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\export-line.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\munge-mocks.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\resolve-mock-entry-point.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\service-key.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-all-conditional-values.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-all-conditions.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-unique-condition-sets.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-all-exports.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-all-local-imports.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-conditional-value.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-import.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\dist\\esm\\call-site-like.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\dist\\esm\\require-resolve.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\is-windows.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\errors.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-named-exports-list.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\read-pkg.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-export.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\star-glob.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\to-path.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\file-exists.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\find-dep-package.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\to-file-url.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-dependency-export.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-package-import.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\dist\\esm\\parse.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\read-json.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\find-star-match.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\index.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\walk-up-path\\dist\\mjs\\index.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\index.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\glob.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\has-magic.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\assert-valid-pattern.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\ast.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\escape.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\unescape.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\pattern.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\path-scurry\\dist\\mjs\\index.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\walker.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\brace-expressions.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\ignore.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minipass\\dist\\esm\\index.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\path-scurry\\node_modules\\lru-cache\\dist\\esm\\index.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\processor.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\loader.mjs",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\hooks.mjs",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-service-client.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\app.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\controller\\authenticationcontroller.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\utilities\\constants.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\controller\\usercontoller.js",
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\service\\newsservice.js"
+  ],
+  "sources": {
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\import.mjs": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\src\\import.mts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\mock-service.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\src\\mock-service.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\dist\\esm\\index.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\src\\index.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\index.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\index.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\is-relative-require.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\is-relative-require.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\export-line.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\src\\export-line.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\munge-mocks.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\src\\munge-mocks.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\resolve-mock-entry-point.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\src\\resolve-mock-entry-point.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\dist\\esm\\service-key.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\mock\\src\\service-key.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-all-conditional-values.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\get-all-conditional-values.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-all-conditions.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\get-all-conditions.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-unique-condition-sets.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\get-unique-condition-sets.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-all-exports.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\resolve-all-exports.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-all-local-imports.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\resolve-all-local-imports.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-conditional-value.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\resolve-conditional-value.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-import.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\resolve-import.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\dist\\esm\\call-site-like.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\src\\call-site-like.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\dist\\esm\\require-resolve.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\src\\require-resolve.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\is-windows.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\is-windows.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-conditional-values-list.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\get-conditional-values-list.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\errors.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\errors.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\get-named-exports-list.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\get-named-exports-list.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\read-pkg.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\read-pkg.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-export.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\resolve-export.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\star-glob.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\star-glob.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\to-path.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\to-path.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\file-exists.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\file-exists.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\find-dep-package.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\find-dep-package.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\to-file-url.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\to-file-url.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-dependency-export.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\resolve-dependency-export.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\resolve-package-import.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\resolve-package-import.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\dist\\esm\\parse.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\@tapjs\\stack\\src\\parse.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\read-json.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\read-json.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\dist\\esm\\find-star-match.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\resolve-import\\src\\find-star-match.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\index.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\src\\index.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\walk-up-path\\dist\\mjs\\index.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\walk-up-path\\src\\index.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\index.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\src\\index.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\glob.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\src\\glob.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\has-magic.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\src\\has-magic.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\assert-valid-pattern.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\src\\assert-valid-pattern.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\ast.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\src\\ast.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\escape.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\src\\escape.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\unescape.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\src\\unescape.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\pattern.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\src\\pattern.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\path-scurry\\dist\\mjs\\index.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\path-scurry\\src\\index.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\walker.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\src\\walker.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\dist\\mjs\\brace-expressions.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minimatch\\src\\brace-expressions.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\ignore.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\src\\ignore.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minipass\\dist\\esm\\index.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\minipass\\src\\index.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\path-scurry\\node_modules\\lru-cache\\dist\\esm\\index.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\path-scurry\\node_modules\\lru-cache\\src\\index.ts"
+    ],
+    "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\dist\\esm\\processor.js": [
+      "C:\\Ankur M\\NodeJs_Projects\\news-aggregator\\node_modules\\glob\\src\\processor.ts"
+    ]
+  },
+  "root": "65a90af0-19cb-49a0-80e2-62d70e286bf6",
+  "externalID": "test/server.test.js",
+  "code": 0,
+  "signal": null,
+  "runtime": 3905.3695
+}
