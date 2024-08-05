@@ -1,0 +1,31 @@
+{
+  "name": "task-tracking-system",
+  "version": "1.0.0",
+  "description": "Project for Airtribe",
+  "main": "index.js",
+  "scripts": {
+    "pretest": "node -e \"if (process.version.slice(1).split('.')[0] < 18) { console.error('Unsupported Node.js version, please use version 18'); process.exit(1); }\"",
+    "test": "tap test/*.js --disable-coverage"
+  },
+  "author": "Airtribe",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^6.3.4",
+    "tap": "^18.8.0"
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongodb": "^6.8.0",
+    "mongodb-memory-server": "^10.0.0",
+    "mongoose": "^8.5.1",
+    "nodemailer": "^6.9.14"
+  },
+  "engines": {
+    "node": ">= 18.0.0"
+  }
+}
